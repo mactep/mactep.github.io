@@ -1,2 +1,0 @@
-# mactep.github.io
-Blog
