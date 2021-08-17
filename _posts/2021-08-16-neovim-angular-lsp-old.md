@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Using Angular language server on older projects"
+title: "Using Angular language server on older projects with Neovim's LSP
+client"
 date: 2021-08-10 09:00:00 -0300
 categories: angular, neovim
 
@@ -33,5 +34,5 @@ use it's legacy configuration, rather than the newer, known as Angular Ivy.
 Mind that the `languageServerPath` variable is the path to the location where
 `@angular/language-service` and `typescript` are installed.
 
-Waiting for [https://github.com/neovim/nvim-lspconfig/issues/1155](this issue)
+Waiting for [this issue](https://github.com/neovim/nvim-lspconfig/issues/1155)
 to provide further information on the solution.
