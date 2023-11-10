@@ -2,7 +2,7 @@
 layout: post
 title: "Connect Melzi V2 to Raspberry Pi gPIO"
 date: 2023-11-10 01:00:00 -0300
-categories: 3d printer, klipper, raspberry, melzi, uart, gPIO
+categories: 3d-printer klipper raspberry melzi uart gPIO
 ---
 
 ## How to
