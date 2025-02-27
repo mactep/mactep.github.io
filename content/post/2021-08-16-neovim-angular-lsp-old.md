@@ -1,10 +1,7 @@
 ---
-layout: post
-title: "Using Angular language server on older projects with Neovim's LSP
-client"
-date: 2021-08-10 09:00:00 -0300
 categories: angular neovim
-
+date: "2021-08-16T09:00:00Z"
+title: Using Angular language server on older projects with Neovim's LSP client
 ---
 
 If you're using [https://github.com/neovim/nvim-lspconfig](nvim-lspconfig's)

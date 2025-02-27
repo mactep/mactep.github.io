@@ -1,9 +1,7 @@
 ---
-layout: post
-title: "Neovim nvim-cmp copilot.vim integration using Tab"
-date: 2022-07-01 01:00:00 -0300
 categories: neovim
-
+date: "2022-07-01T01:00:00Z"
+title: Neovim nvim-cmp copilot.vim integration using Tab
 ---
 
 ```lua

@@ -1,9 +1,7 @@
 ---
-layout: post
-title: "Neovim configuration"
-date: 2021-08-10 09:00:00 -0300
 categories: neovim
-
+date: "2021-08-10T09:00:00Z"
+title: Neovim configuration
 ---
 
 This post provides the configuration files for a setup in lua and using

@@ -1,0 +1,6 @@
+baseURL = "https://mactep.github.io/"
+disablePathToLower = true
+languageCode = "en-us"
+title = "mactep.github.io"
+
+theme = "PaperMod"

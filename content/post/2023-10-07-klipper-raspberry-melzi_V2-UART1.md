@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "Connect Melzi V2 to Raspberry Pi gPIO"
-date: 2023-11-10 01:00:00 -0300
 categories: 3d-printer klipper raspberry melzi uart gPIO
+date: "2023-10-07T01:00:00Z"
+title: Connect Melzi V2 to Raspberry Pi gPIO
 ---
 
 ## How to
