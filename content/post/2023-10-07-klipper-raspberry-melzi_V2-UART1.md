@@ -20,14 +20,13 @@ image from RepRap wiki shows the pins from the LCD connector. ![Melzi LCD
 connector][2]. If image source is off, looking from the side of the USB
 connector towards you:
 
-```
- Г‾‾‾‾‾‾‾⅂
- |       | Г‾‾‾‾‾‾‾‾‾‾‾⅂ 1 - 5V pin, you can connect it to the Raspberry 5V to power it
- |       | | 1 2 3 4 5 | 2 - RX1 pin, connect it to Raspberry TX pin
- |  USB  | | 6 7 8 9 0 | 3 - TX1 pin, connect it to Raspberry RX pin
- |       | L___________⅃ 6 - GND pin, connect it to Raspberry ground pin. Along with the
- L_______⅃                   5V pin, you can power the Raspberry Pi from the Melzi board.
-
+```text
+ ---------
+ |       |  -------------      1 - 5V pin, you can connect it to the Raspberry 5V to power it
+ |       |  | 1 2 3 4 5 |      2 - RX1 pin, connect it to Raspberry TX pin
+ |  USB  |  | 6 7 8 9 0 |      3 - TX1 pin, connect it to Raspberry RX pin
+ |       |  -------------      6 - GND pin, connect it to Raspberry ground pin. Along with the
+ ---------                         5V pin, you can power the Raspberry Pi from the Melzi board.
 ```
 
 ### Firmware
