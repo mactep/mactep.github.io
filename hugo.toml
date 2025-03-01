@@ -3,4 +3,17 @@ disablePathToLower = true
 languageCode = "en-us"
 title = "mactep.github.io"
 
-theme = "PaperMod"
+theme = "risotto"
+
+pygmentsUseClasses = true
+
+[params.theme]
+palette = "base16-catppuccin-mocha"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
