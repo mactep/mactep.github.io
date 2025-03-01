@@ -1,0 +1,25 @@
+:root {
+    /* Latte (light theme) colors */
+    --theme: rgb(239, 241, 245); /* Base */
+    --entry: rgb(230, 233, 239); /* Mantle */
+    --primary: rgb(76, 79, 105); /* Text */
+    --secondary: rgb(108, 111, 133); /* Subtext0 */
+    --tertiary: rgb(204, 208, 218); /* Surface0 */
+    --content: rgb(92, 95, 119); /* Subtext0 */
+    --code-block-bg: rgb(24, 24, 37); /* Mantle (Mocha) */
+    --code-bg: rgb(239, 241, 245); /* Base */
+    --border: rgb(140, 143, 161); /* Overlay1 */
+}
+
+.dark {
+    /* Mocha (dark theme) colors */
+    --theme: rgb(30, 30, 46); /* Base */
+    --entry: rgb(24, 24, 37); /* Mantle */
+    --primary: rgb(205, 214, 244); /* Text */
+    --secondary: rgb(166, 173, 186); /* Subtext0 */
+    --tertiary: rgb(49, 50, 68); /* Surface0 */
+    --content: rgb(198, 208, 245); /* Surface2 */
+    --code-block-bg: rgb(24, 24, 37); /* Mantle */
+    --code-bg: rgb(30, 30, 46); /* Base */
+    --border: rgb(62, 66, 83); /* Overlay1 */
+}

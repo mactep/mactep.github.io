@@ -3,17 +3,43 @@ disablePathToLower = true
 languageCode = "en-us"
 title = "mactep.github.io"
 
-theme = "risotto"
+theme = "PaperMod"
 
-pygmentsUseClasses = true
-
-[params.theme]
-palette = "base16-catppuccin-mocha"
-
-[menu]
-
-  [[menu.main]]
+# header links
+[[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
     weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+# using chroma for syntax highlighting
+pygmentsUseClasses = true
+
+[params.assets]
+disableHLJS = true
+
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+lineNos = false
+style = "catppuccin-mocha"
+
+# PaperMod settings
+[params]
+defaultTheme = "auto"
+showCodeCopyButtons = true
+
+[params.profileMode]
+enable = false
+
+[params.editPost]
+URL = "https://github.com/mactep/mactep.github.io/content"
+text = "Suggest Changes"
+appendFilePath = true
+
